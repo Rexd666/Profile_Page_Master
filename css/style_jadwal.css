@@ -1,0 +1,44 @@
+/* Course List Page Styles */
+.course-list {
+    margin-top: 40px; /* Menambahkan jarak dari section sebelumnya */
+}
+
+.text-center {
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+header {
+    background-color: rgb(0, 157, 255);
+    padding: 25px;
+}
+
+.mercu {
+    width: 85px;
+    height: auto;
+    position: absolute;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+}
+
+/* Footer Styles */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #ddd;
+    margin-top: 20px;
+}
+
